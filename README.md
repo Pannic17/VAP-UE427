@@ -6,7 +6,7 @@ VC-V 项目的主仓库，基于 **Unreal Engine 4.27**。工程包含视觉检�
 
 | 仓库 | 定位 | 入口 |
 | --- | --- | --- |
-| **V_UE427（主仓库）** | Unreal Engine 场景、视觉表现与检测点处理 | [查看主仓库](https://github.com/Pannic17/V_UE427) |
+| **V_UE427（主仓库）** | Unreal Engine 场景、视觉表现与检测点处理 | [查看主仓库](https://github.com/Pannic17/VAP-UE427) |
 | VAP-OpenCV-Detection | Python / OpenCV 摄像头预览及 Haar 级联检测实验 | [进入检测仓库](https://github.com/Pannic17/VAP-OpenCV-Detection) |
 | VAP-Unity | Unity 摄像头处理、检测工具及星球交互原型 | [进入 Unity 仓库](https://github.com/Pannic17/VAP-Unity) |
 
